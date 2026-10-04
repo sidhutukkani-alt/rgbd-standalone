@@ -1,0 +1,7 @@
+date: 2026-10-04T21:11:59+05:30
+ardupilot: ArduPilot-4.6.0-beta1-8229-gaf2a1bafc8
+ardupilot_gazebo: 082a0fe
+gazebo: 8.15.0
+ubuntu: Ubuntu 22.04.5 LTS
+ros: humble
+repo commit: d6eb390
